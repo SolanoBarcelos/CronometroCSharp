@@ -1,7 +1,7 @@
 # Cronômetro C#
 
 ## Repositório para exercitar conceitos:
-- Laços de Repetição, While e DoWhile
+- Laços de Repetição, While e DoWhile - <b>Cronômetro começa do número 0 e também do número escolhido para contar</b>.
 - Métodos ToLower(), Substring()
 - .Length
 - System.Environment.Exit()
